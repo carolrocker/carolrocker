@@ -19,7 +19,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=carolrocker&theme=tokyonight&show_icons=true&locale=en&layout=compact)
 
-## Soft skills
 ## 📱 Social media
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anarocker/)
