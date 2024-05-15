@@ -1,5 +1,4 @@
-## 🙋🏻‍♀️ Hi, I'm Carol!
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Patua+One&pause=1000&color=B53D48&random=false&width=435&lines=Hello%2C+I'm+Carol!+%F0%9F%91%8B%F0%9F%8F%BB;Welcome+to+my+GitHub!)](https://git.io/typing-svg)<br>
 • Psychologist in career transition to IT<br> 
 • Studying everything about Web development through online courses and freelance projects  
 
@@ -20,6 +19,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=carolrocker&theme=tokyonight&show_icons=true&locale=en&layout=compact)
 
+## Soft skills
 ## 📱 Social media
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anarocker/)
