@@ -18,12 +18,13 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=carolrocker&theme=tokyonight&show_icons=true&locale=en&layout=compact)
+
 ## 📱 Social media
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anarocker/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carolina.rckr@gmail.com)
 [![WhatApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511982060246)
-
 
 <!---
 carolrocker/carolrocker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
