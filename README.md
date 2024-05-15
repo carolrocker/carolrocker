@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Patua+One&pause=1000&color=B53D48&random=false&width=435&lines=Hello%2C+I'm+Carol!+%F0%9F%91%8B%F0%9F%8F%BB;Welcome+to+my+GitHub!)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Patua+One&size=35&pause=1000&color=B53D48&random=false&width=435&lines=Hi%2C+I'm+Carol+%F0%9F%91%8B%F0%9F%8F%BB;Welcome+to+my+GitHub!)](https://git.io/typing-svg)<br>
 • Psychologist in career transition to IT<br> 
 • Studying everything about Web development through online courses and freelance projects  
 
@@ -14,7 +14,6 @@
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=carolrocker&theme=tokyonight&show_icons=true&locale=en&layout=compact)
