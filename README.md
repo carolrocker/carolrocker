@@ -10,8 +10,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=carolrocker&theme=tokyonight&show_icons=true&locale=en&layout=compact)
-
 ## 📱 Social media
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anarocker/)
